@@ -1,0 +1,115 @@
+{
+    "Records": [
+        {
+            "cf": {
+                "config": {
+                    "distributionId": "EXAMPLE"
+                },
+                "request": {
+                    "body": {
+                        "action": "read-only",
+                        "data": "",
+                        "encoding": "base64",
+                        "inputTruncated": false
+                    },
+                    "clientIp": "182.69.183.174",
+                    "headers": {
+                        "host": [
+                            {
+                                "key": "Host",
+                                "value": "picasso.cosmofeed.com"
+                            }
+                        ],
+                        "user-agent": [
+                            {
+                                "key": "User-Agent",
+                                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+                            }
+                        ],
+                        "cookie": [
+                            {
+                                "key": "Cookie",
+                                "value": "_hjSessionUser_3316584=eyJpZCI6ImI5YmFkOGVlLTBmOTEtNWE3MS04MDQ1LWZiZjcxYjgzZTZjMSIsImNyZWF0ZWQiOjE2ODAwMjkyMDY0MDEsImV4aXN0aW5nIjp0cnVlfQ=="
+                            }
+                        ],
+                        "pragma": [
+                            {
+                                "key": "pragma",
+                                "value": "no-cache"
+                            }
+                        ],
+                        "cache-control": [
+                            {
+                                "key": "cache-control",
+                                "value": "no-cache"
+                            }
+                        ],
+                        "sec-ch-ua": [
+                            {
+                                "key": "sec-ch-ua",
+                                "value": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\""
+                            }
+                        ],
+                        "sec-ch-ua-mobile": [
+                            {
+                                "key": "sec-ch-ua-mobile",
+                                "value": "?0"
+                            }
+                        ],
+                        "sec-ch-ua-platform": [
+                            {
+                                "key": "sec-ch-ua-platform",
+                                "value": "\"macOS\""
+                            }
+                        ],
+                        "accept": [
+                            {
+                                "key": "accept",
+                                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                            }
+                        ],
+                        "sec-fetch-site": [
+                            {
+                                "key": "sec-fetch-site",
+                                "value": "cross-site"
+                            }
+                        ],
+                        "sec-fetch-mode": [
+                            {
+                                "key": "sec-fetch-mode",
+                                "value": "no-cors"
+                            }
+                        ],
+                        "sec-fetch-dest": [
+                            {
+                                "key": "sec-fetch-dest",
+                                "value": "image"
+                            }
+                        ],
+                        "referer": [
+                            {
+                                "key": "referer",
+                                "value": "http://localhost:3000/"
+                            }
+                        ],
+                        "accept-encoding": [
+                            {
+                                "key": "accept-encoding",
+                                "value": "gzip, deflate, br"
+                            }
+                        ],
+                        "accept-language": [
+                            {
+                                "key": "accept-language",
+                                "value": "en-GB,en-US;q=0.9,en;q=0.8"
+                            }
+                        ]
+                    },
+                    "method": "GET",
+                    "querystring": "w=515&q=75",
+                    "uri": "/media.cosmofeed.com/20230422_213554_0000-2023-22-04-04-15-45.png"
+                }
+            }
+        }
+    ]
+}
